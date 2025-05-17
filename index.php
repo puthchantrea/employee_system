@@ -178,7 +178,7 @@
                             <ul class="list-unstyled">
                                 <li><i class="bi bi-geo-alt-fill"></i> Location: Phnom Penh,Cambodia </li>
                                 <li><i class="bi bi-envelope-at-fill"></i> Email: <a href="">puthchantrea@gmail.com</a></li>
-                                <li><i class="bi bi-github"></i> GitHub: <a href=""></a> </li>
+                                <li><i class="bi bi-github"></i> GitHub: <a href="https://github.com/puthchantrea/employee_system">https://github.com/puthchantrea/employee_system</a> </li>
                                 <li><i class="bi bi-telephone-forward-fill"></i> Phone Number: 081962380</li>
                             </ul>
                             <div class="modal-footer mt-2">
